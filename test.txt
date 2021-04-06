@@ -1,0 +1,1 @@
+How will my ft_read read this file?
